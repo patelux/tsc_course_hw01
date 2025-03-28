@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# TypeScript
+/dist/
+/build/
+tsconfig.tsbuildinfo
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# IDE и редакторы
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Прочие временные файлы
+*.swp
+*.swo
